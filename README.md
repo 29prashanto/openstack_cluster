@@ -10,6 +10,6 @@ cd openstack_cluster
 
 chmod +x openstack.sh
 
-./openstack
+./openstack.sh
 
 ```
