@@ -1,7 +1,9 @@
-# Openstack Cluster
+Openstack Cluster
+=================
 
 
-```
+
+```sh
 
 [root@hostname ~]# yum install git -y
 
